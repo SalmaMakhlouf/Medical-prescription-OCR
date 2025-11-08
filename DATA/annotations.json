@@ -1,0 +1,18 @@
+{
+  "schema": {
+    "reference": "string",
+    "patient_name": "string",
+    "patient_id": "string",
+    "physician_name": "string",
+    "date": "YYYY-MM-DD",
+    "medications": [
+      {
+        "name": "string",
+        "dose": "string",
+        "frequency": "string",
+        "duration": "string"
+      }
+    ]
+  },
+  "items": []
+}
