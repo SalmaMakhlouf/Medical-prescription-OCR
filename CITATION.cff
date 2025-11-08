@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: If you use this project, please cite it as below.
+title: "medical-prescription-ocr: demo reproducible d'extraction d'information"
+authors:
+  - family-names: Makhlouf
+    given-names: Salma
+keywords:
+  - OCR
+  - computer vision
+  - prescriptions médicales
+  - extraction d'information
+license: MIT
+version: 0.1.0
+date-released: 2025-11-08
